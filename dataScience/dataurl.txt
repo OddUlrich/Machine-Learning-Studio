@@ -1,0 +1,7 @@
+https://elitedatascience.com/birds-eye-view
+https://elitedatascience.com/exploratory-analysis
+https://elitedatascience.com/data-cleaning
+https://elitedatascience.com/feature-engineering
+https://elitedatascience.com/algorithm-selection
+https://elitedatascience.com/model-training
+https://elitedatascience.com/next-steps
