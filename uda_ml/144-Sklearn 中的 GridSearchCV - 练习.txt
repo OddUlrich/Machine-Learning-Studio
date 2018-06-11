@@ -1,0 +1,5 @@
+请参考此处的特征脸方法代码。使用 GridSearchCV 调整了 SVM 的哪些参数？
+http://scikit-learn.org/stable/auto_examples/applications/face_recognition.html
+ 
+ 练习: sklearn 中的 GridSearchCV
+SVM 的哪些参数使用特征脸示例中的 GridSearchCV 进行自动调谐？
